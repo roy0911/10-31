@@ -16,4 +16,8 @@
 - git branch -M main
 - git push -u origin main
 - check status of the new github repository
-- 
+
+
+#git checkout
+- git checkout -b Branch_411203241
+- git
